@@ -6,17 +6,52 @@
         "changelog": "* August Security Patch\n* LineageOS Upstream"
       },
       {
-        "ROM": "Yaru Vacha Maiyi",
+        "ROM": "AOSP Extended - 7.3",
         "dl": "https://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQxMTU5MS9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5NzMwMjgxMSZmaWxlX25hbWU9RXZvbHV0aW9uWF80LjZfa2FyYXRlLTEwLjAtMjAyMDA4MTMtMDQxNC1VTk9GRklDSUFMLnppcCZmaWxlX3R5cGU9YXBwbGljYXRpb24vamF2YS1hcmNoaXZlJmZpbGVfc2l6ZT0xMjYyNDA2NjYzCg==",
         "changelog": "aug patch"
       },
       {
-        "ROM": "Yaru Vacha Maiyi",
+        "ROM": "AOSiP -Quiche",
         "dl": "Idhu Nan Vacha Maiyi",
         "changelog": "aug patch"
       },
       {
-        "ROM": "Ne Munnala Pona",
+        "ROM": "Bliss",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "CrDroid - 6.9",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "EvolutionX",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "Havoc",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "Paranoid Android",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "Pixel Experience",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "Pixel Experience Plus",
+        "dl": "Nan Pinnala vaaren",
+        "changelog": "aug patch"
+      },
+      {
+        "ROM": "Resurrection Remix",
         "dl": "Nan Pinnala vaaren",
         "changelog": "aug patch"
       }

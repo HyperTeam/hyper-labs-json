@@ -1,0 +1,9 @@
+{
+    "ROMList": [
+      {
+        "ROM": "LineageOS-17.1",
+        "dl": "https://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTM5MjczNy9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5NzkyODM4MiZmaWxlX25hbWU9bGluZWFnZS0xNy4xLTIwMjAwODIwLVVOT0ZGSUNJQUwta2FyYXRlcC56aXAmZmlsZV90eXBlPWFwcGxpY2F0aW9uL2phdmEtYXJjaGl2ZSZmaWxlX3NpemU9NjY5OTkxOTU2Cg==",
+        "changelog": "* August Security Patch\n* LineageOS Upstream\n* Fixed Time services\n* Fixed GPS\n* Added Pixel offmode charging animation"
+      }
+    ]
+}

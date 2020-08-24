@@ -1,0 +1,14 @@
+{
+    "ROMList": [
+      {
+        "ROM": "LineageOS-17.1",
+        "dl": "https://bit.ly/31o0zuA",
+        "changelog": "*August Security Patch\n *Lineage Upstream\n *Removed OP8 fp animation"
+      },
+      {
+        "ROM": "Havoc-3.8",
+        "dl": "Soon™",
+        "changelog": "Aug sec"
+      }
+    ]
+}

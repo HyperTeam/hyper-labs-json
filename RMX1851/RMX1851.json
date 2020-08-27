@@ -16,9 +16,14 @@
         "changelog": "aug patch"
       },
       {
-        "ROM": "Bliss",
+        "ROM": "Blissroms",
         "dl": "http://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQwNzQzMC9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5ODAzNDk4MCZmaWxlX25hbWU9Qmxpc3MtdjEyLjExLVJNWDE4NTEtVU5PRkZJQ0lBTC0yMDIwMDgyMS56aXAmZmlsZV90eXBlPWFwcGxpY2F0aW9uL2phdmEtYXJjaGl2ZSZmaWxlX3NpemU9MTQxMjQ0MTEzNw==",
         "changelog": "* August Security Patch\n* Bliss Upstream"
+      },
+      {
+        "ROM": "CarbonROM",
+        "dl": "http://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQxNjI0My9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5ODUyNTA0NyZmaWxlX25hbWU9Q0FSQk9OLUNSLTguMC1QQVgtVU5PRkZJQ0lBTC1STVgxODUxLTIwMjAwODI2LTE4MDMuemlwJmZpbGVfdHlwZT1hcHBsaWNhdGlvbi9qYXZhLWFyY2hpdmUmZmlsZV9zaXplPTEwMjc1NTY0MTI=",
+        "changelog": "* Initial Build"
       },
       {
         "ROM": "CrDroid - 6.9",

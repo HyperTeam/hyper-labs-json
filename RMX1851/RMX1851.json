@@ -17,13 +17,18 @@
       },
       {
         "ROM": "Blissroms",
-        "dl": "http://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQwNzQzMC9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5ODAzNDk4MCZmaWxlX25hbWU9Qmxpc3MtdjEyLjExLVJNWDE4NTEtVU5PRkZJQ0lBTC0yMDIwMDgyMS56aXAmZmlsZV90eXBlPWFwcGxpY2F0aW9uL2phdmEtYXJjaGl2ZSZmaWxlX3NpemU9MTQxMjQ0MTEzNw==",
-        "changelog": "* August Security Patch\n* Bliss Upstream"
+        "dl": "http://bit.ly/bliss0907",
+        "changelog": "* Update media configs\n* Add F2FS for userdata\n* Update kernel to 4.9.235\n* Bliss Upstream"
       },
       {
         "ROM": "CarbonROM",
         "dl": "http://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQxNjI0My9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5ODUyNTA0NyZmaWxlX25hbWU9Q0FSQk9OLUNSLTguMC1QQVgtVU5PRkZJQ0lBTC1STVgxODUxLTIwMjAwODI2LTE4MDMuemlwJmZpbGVfdHlwZT1hcHBsaWNhdGlvbi9qYXZhLWFyY2hpdmUmZmlsZV9zaXplPTEwMjc1NTY0MTI=",
         "changelog": "* Initial Build"
+      },
+      {
+        "ROM": "Corvus Rom 8.5",
+        "dl": "https://mega.nz/file/I0oDkbbI#1Ujgoy2rUpGHi_eCEvj5Rcpt2_-womo2RmiyHUFIWnc",
+        "changelog": "new release 8.5"
       },
       {
         "ROM": "CrDroid - 6.9",
@@ -54,11 +59,6 @@
         "ROM": "Resurrection Remix",
         "dl": "Nan Pinnala vaaren",
         "changelog": "aug patch"
-      },
-      {
-        "ROM": "Corvus Rom 8.5",
-        "dl": "https://mega.nz/file/I0oDkbbI#1Ujgoy2rUpGHi_eCEvj5Rcpt2_-womo2RmiyHUFIWnc",
-        "changelog": "new release 8.5"
       }
     ]
 }

@@ -1,0 +1,9 @@
+
+{
+    "ROMList": [
+      {
+        "ROM": "LineageOS - 17.1",
+        "dl": "https://drive.google.com/file/d/1qa9eKNopRlTGsOSszoqZ3NGCgSPj5VwK/view?usp=sharing",
+        "changelog": "* August Security Patch\n* LineageOS Upstream"
+      }
+    ]

@@ -1,0 +1,24 @@
+{
+    "ROMList": [
+      {
+        "ROM": "LineageOS-17.1",
+        "dl": "https://www.pling.com/p/1389711/#files-panel",
+        "changelog": "August Security Patch"
+      },
+      {
+        "ROM": "AEX-7.3",
+        "dl": "https://www.pling.com/p/1408528/#files-panel",
+        "changelog": "Aug sec patch"
+      },
+      {
+        "ROM": "Pixel Experience Plus-10",
+        "dl": "https://www.pling.com/p/1409353/#files-panel",
+        "changelog": "Intial build"
+      },
+      {
+        "ROM": "Evox-4.6",
+        "dl": "https://www.pling.com/p/1411591/#files-panel",
+        "changelog": "Aug sec"
+      }
+    ]
+}

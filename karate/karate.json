@@ -16,9 +16,9 @@
         "changelog": "Intial build"
       },
       {
-        "ROM": "Evox-4.6",
-        "dl": "https://www.pling.com/p/1411591/#files-panel",
-        "changelog": "Aug sec"
+        "ROM": "EvolutionX-4.7",
+        "dl": "https://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQxMTU5MS9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTYwMDEwNzM5MyZmaWxlX25hbWU9RXZvbHV0aW9uWF80Ljdfa2FyYXRlLTEwLjAtMjAyMDA5MTQtMTQzNy1VTk9GRklDSUFMLnppcCZmaWxlX3R5cGU9YXBwbGljYXRpb24vamF2YS1hcmNoaXZlJmZpbGVfc2l6ZT0xMjgwNzgzODYyCg==",
+        "changelog": "* Version: 4.7 Quantum\n* September security patch\n* Fixed Livedisplay\n* Added Maintainer strings\n* Brought back gradient behind QS panel\n* Added AOSP theme picker\n* Added OOS 10 VoLTE icon\n* Implemented QS Disco"
       }
     ]
 }

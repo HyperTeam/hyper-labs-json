@@ -6,6 +6,11 @@
         "changelog": "* August Security Patch\n* LineageOS Upstream"
       },
       {
+        "ROM": "Arrow-10.0",
+        "dl": "https://mega.nz/file/VxhiyaLS#sn_LVpiMdGHsg7URKQST-cdD2MevUfMrTFCVqKDkOSw",
+        "changelog": "* September Security Patch\n* ArrowOS Upstream"
+      },
+      {
         "ROM": "AOSP Extended - 7.3",
         "dl": "https://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQxMTU5MS9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5NzMwMjgxMSZmaWxlX25hbWU9RXZvbHV0aW9uWF80LjZfa2FyYXRlLTEwLjAtMjAyMDA4MTMtMDQxNC1VTk9GRklDSUFMLnppcCZmaWxlX3R5cGU9YXBwbGljYXRpb24vamF2YS1hcmNoaXZlJmZpbGVfc2l6ZT0xMjYyNDA2NjYzCg==",
         "changelog": "aug patch"

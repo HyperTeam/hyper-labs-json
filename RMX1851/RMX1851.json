@@ -56,9 +56,9 @@
         "changelog": "aug patch"
       },
       {
-        "ROM": "Pixel Experience Plus",
-        "dl": "Nan Pinnala vaaren",
-        "changelog": "aug patch"
+        "ROM": "Pixel Experience Plus-10",
+        "dl": "https://bit.ly/3iuBfZZ",
+        "changelog": "*September Securtiy Patch\n *Enabled F2FS for userdata"
       },
       {
         "ROM": "Resurrection Remix",

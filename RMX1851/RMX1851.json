@@ -21,6 +21,11 @@
         "changelog": "* September Security Patch\n* ArrowOS Upstream"
       },
       {
+        "ROM": "AncientOS",
+        "dl": "https://www.pling.com/p/1424170/",
+        "changelog": "* source side \n* VooC Charging enabled \n* Ancient CustomDoze Enabled \n* Added FaceUnlock"  
+      },
+      {
         "ROM": "Blissroms",
         "dl": "http://bit.ly/bliss0907",
         "changelog": "* Update media configs\n* Add F2FS for userdata\n* Update kernel to 4.9.235\n* Bliss Upstream"

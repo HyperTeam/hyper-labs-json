@@ -37,8 +37,8 @@
       },
       {
         "ROM": "Corvus Rom 9.0",
-        "dl": "https://mega.nz/file/pxYx1AJR#RDqTYfiu98imm5qKbI0ZW6bgUgAGyhs2i26u0AuKcZw",
-        "changelog": "new release 9.0"
+        "dl": "https://mega.nz/file/lhhm3QSQ#E8Ul1NZDUpkGYWGuQx9lO852pTYK13Yd7386BKR8jOU",
+        "changelog": "* Added Dolby Atmos\n* Add Touchscreen Gestures\n* Add Vooc charging detection\n* Fix lockscreen Charging Current\n* Add Corvus Boot animation"
       },
       {
         "ROM": "CrDroid - 6.9",

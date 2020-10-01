@@ -36,9 +36,9 @@
         "changelog": "* Initial Build"
       },
       {
-        "ROM": "Corvus Rom 9.0",
-        "dl": "https://mega.nz/file/lhhm3QSQ#E8Ul1NZDUpkGYWGuQx9lO852pTYK13Yd7386BKR8jOU",
-        "changelog": "* Added Dolby Atmos\n* Add Touchscreen Gestures\n* Add Vooc charging detection\n* Fix lockscreen Charging Current\n* Add Corvus Boot animation"
+        "ROM": "Corvus Rom 9.5",
+        "dl": "https://mega.nz/file/Mo5gxAyR#zY6T3q0QRqMK7fgAyY1a2R4AKxAX81l3T5H2GtiNmWk",
+        "changelog": "* Add face unlock feature\n * add app lock feature\n * source upstream"
       },
       {
         "ROM": "CrDroid - 6.9",

@@ -1,6 +1,11 @@
 {
     "ROMList": [
       {
+        "ROM": "LineageOS-18.0",
+        "dl": "https://bit.ly/3jBH1cw",
+        "changelog": "September Security Patch"
+      },
+      {
         "ROM": "LineageOS-17.1",
         "dl": "https://bit.ly/2PY6nV1",
         "changelog": "* August Security Patch\n* LineageOS Upstream"

@@ -41,9 +41,9 @@
         "changelog": "* Initial Build"
       },
       {
-        "ROM": "Corvus Rom 9.5",
-        "dl": "https://mega.nz/file/Mo5gxAyR#zY6T3q0QRqMK7fgAyY1a2R4AKxAX81l3T5H2GtiNmWk",
-        "changelog": "* Add face unlock feature\n * add app lock feature\n * source upstream"
+        "ROM": "Corvus Rom 9.5 (with gapps)",
+        "dl": "https://drive.google.com/file/d/1xNFWhETedO0KIgs_CvX01JaJrQGI5SqB/view?usp=sharing",
+        "changelog": "* Switch to qti bluetooth stack\n * fix dolby not work with bt headset\n * added prebuilt pixelgapps (no need to flash gapps)\n * gamemode improvements"
       },
       {
         "ROM": "CrDroid - 6.10",

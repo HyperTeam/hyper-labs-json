@@ -6,9 +6,18 @@
         "changelog": "September Security Patch"
       },
       {
-        "ROM": "LineageOS-17.1",
-        "dl": "https://bit.ly/2PY6nV1",
-        "changelog": "* August Security Patch\n* LineageOS Upstream"
+        "ROM": "ForkLineageOS-17.1-vanilla",
+        "dl": "https://bit.ly/3jO55ZW",
+        "changelog": "October Security Patch"
+      },      {
+        "ROM": "ForkLineageOS-17.1-aurora",
+        "dl": "https://bit.ly/3jPlZaH",
+        "changelog": "October Security Patch"
+      },
+      {
+        "ROM": "ForkLineageOS-17.1-microg",
+        "dl": "https://bit.ly/2IkWD6H",
+        "changelog": "October Security Patch"
       },
       {
         "ROM": "AOSP Extended - 7.3",

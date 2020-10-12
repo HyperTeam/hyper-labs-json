@@ -76,8 +76,8 @@
       },
       {
         "ROM": "Pixel Experience Plus-10",
-        "dl": "https://bit.ly/3iuBfZZ",
-        "changelog": "*September Securtiy Patch\n *Enabled F2FS for userdata"
+        "dl": "https://bit.ly/2Flu7AG",
+        "changelog": "* Added App Lock\n * October Security Patch\n * Updated vendor security patch\n * Updated build fingerprint and description\n * Updated Camera blobs\n * Switched to QTI Bluetooth Stack\n * SE Linux improvements\n * game mode tunings\n * Kernel upstream"
       },
       {
         "ROM": "Resurrection Remix",

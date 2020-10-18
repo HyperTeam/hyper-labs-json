@@ -86,8 +86,8 @@
       },
       {
         "ROM": "Superior OS",
-        "dl": "https://www.pling.com/p/1422907/",
-        "changelog": "sept patch"
+        "dl": "https://mega.nz/file/Sd5kzQxQ#kKykw5s4zTZa9UE5sSVFwUyevCJT-VICvbKs1340HCU",
+        "changelog": "OCT patch\n * Added moto Dolby atmos\n * Added Vooc Charging\n * Added toggle for Dolby (Turn on/off from Realme settings)\n * Included changes from latest FLOS\n * Kernel upstream"
       }
     ]
 }

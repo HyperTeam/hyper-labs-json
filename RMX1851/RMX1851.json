@@ -41,8 +41,8 @@
       },
       {
         "ROM": "CarbonROM",
-        "dl": "http://dl.hyper-labs.tech/?q=aHR0cHM6Ly93d3cucGxpbmcuY29tL3AvMTQxNjI0My9zdGFydGRvd25sb2FkP2ZpbGVfaWQ9MTU5ODUyNTA0NyZmaWxlX25hbWU9Q0FSQk9OLUNSLTguMC1QQVgtVU5PRkZJQ0lBTC1STVgxODUxLTIwMjAwODI2LTE4MDMuemlwJmZpbGVfdHlwZT1hcHBsaWNhdGlvbi9qYXZhLWFyY2hpdmUmZmlsZV9zaXplPTEwMjc1NTY0MTI=",
-        "changelog": "* Initial Build"
+        "dl": "http://bit.ly/carbon2210",
+        "changelog": "* Added support for realme X Lite (audio should work now).\n* Enabled zygote preforking (Faster app launch).\n* Inline with latest lineage-17.1 build for RMX1851.\n* CarbonROM Upstream"
       },
       {
         "ROM": "Corvus Rom 9.5 (with gapps)",

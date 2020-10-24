@@ -86,8 +86,8 @@
       },
       {
         "ROM": "Xtended Rom Xq",
-        "dl": "https://mega.nz/file/UspmlQKB#qEp5QaicuCi4LFxp_aLcD9P3MGTrPR5tB74nNrdLpSM",
-        "changelog": "intial build"
+        "dl": "https://mega.nz/file/lh4G3YyC#aIr6wxGV7MnoZ68jAswpT-PHinvBuM4KOokGPkbxp4Q",
+        "changelog": "* Fix Screen Recorder lag\n * Added TouchScreen gestures\n * Added toggle for Dolby (Turn on/off from Realme settings)"
       }        
     ]
 }

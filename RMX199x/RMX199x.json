@@ -5,6 +5,11 @@
         "ROM": "LineageOS - 17.1",
         "dl": "https://drive.google.com/file/d/1qa9eKNopRlTGsOSszoqZ3NGCgSPj5VwK/view?usp=sharing",
         "changelog": "*LineageOS Upstream with Goodies*"
+      },
+      {
+        "ROM": "AOSP R",
+        "dl": "https://drive.google.com/file/d/16KOMomirFwRZLde_jnZrmZex30-zTlfl/edit",
+        "changelog": "*Android R November Patch"
       }
     ]
 }

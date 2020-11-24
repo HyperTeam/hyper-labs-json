@@ -5,6 +5,10 @@
         "dl": "https://bit.ly/3jBH1cw",
         "changelog": "September Security Patch"
       },
+      { "ROM": "Pixel Experience-11",
+        "dl": "https://bit.ly/3kVKa71",
+        "changelog": "* November Security Patch\n * Alpha build"
+      },
       {
         "ROM": "ForkLineageOS-17.1-vanilla",
         "dl": "https://bit.ly/3jO55ZW",

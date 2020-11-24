@@ -71,8 +71,8 @@
       },
       {
         "ROM": "Pixel Experience Plus-10",
-        "dl": "https://bit.ly/2Flu7AG",
-        "changelog": "* Added App Lock\n * October Security Patch\n * Updated vendor security patch\n * Updated build fingerprint and description\n * Updated Camera blobs\n * Switched to QTI Bluetooth Stack\n * SE Linux improvements\n * game mode tunings\n * Kernel upstream"
+        "dl": "https://bit.ly/36QEDK3",
+        "changelog": "* November Sec patch\n * Fixed battery % drop "
       },
       {
         "ROM": "Resurrection Remix",

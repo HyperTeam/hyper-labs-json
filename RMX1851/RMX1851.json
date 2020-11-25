@@ -49,9 +49,9 @@
         "changelog": "* Added support for realme X Lite (audio should work now).\n* Enabled zygote preforking (Faster app launch).\n* Inline with latest lineage-17.1 build for RMX1851.\n* CarbonROM Upstream"
       },
       {
-        "ROM": "Corvus Rom 9.5 (with gapps)",
-        "dl": "https://drive.google.com/file/d/1xNFWhETedO0KIgs_CvX01JaJrQGI5SqB/view?usp=sharing",
-        "changelog": "* Switch to qti bluetooth stack\n * fix dolby not work with bt headset\n * added prebuilt pixelgapps (no need to flash gapps)\n * gamemode improvements"
+        "ROM": "Corvus Rom 10.5 (with gapps)",
+        "dl": "https://mega.nz/file/IkY3QS5Q#_Ecm7i3haFTpGNfjIqB0lbWwcYkp3TRFH1n5ws4HoTA",
+        "changelog": "* November Security Patch\n * Fixed crackling sound in games\n * this is the last A10 update for this rom , wait for A11 release"
       },
       {
         "ROM": "CrDroid - 6.10",

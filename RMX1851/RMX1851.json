@@ -96,7 +96,7 @@
 	{ 
 	"ROM": "Mokee100",
 	 "dl": "https://bit.ly/37nKEy2", 
-       "changelog": "* November Security Patch\n * Initian Build"
-   }
+       "changelog": "* November Security Patch\n * Initial Build"
+      }
     ]
 }

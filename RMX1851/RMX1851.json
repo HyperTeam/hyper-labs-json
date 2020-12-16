@@ -70,8 +70,8 @@
       },	    
       {
         "ROM": "Kang-OS 11.3",
-        "dl": "https://mega.nz/file/BtoWUQgC#_ucTTVhtuPVRts2-kXLBhU30LrZH0smWkZ31aY103OY",
-        "changelog": "* Initial build\n * December Security patch "
+        "dl": "https://mega.nz/file/t8ARmI7Q#9UuWP6mVpSTOMbhoEGXTVHSmxBOII_SZRbhu-zriK60",
+        "changelog": "* Fixed FP Not Registering\n * Add Vooc Charging Support"
       },
       {
         "ROM": "Paranoid Android",

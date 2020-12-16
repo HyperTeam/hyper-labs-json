@@ -73,6 +73,11 @@
         "changelog": "* Initial build\n * December Security patch "
       },	    
       {
+        "ROM": "Kang-OS 11.3",
+        "dl": "https://mega.nz/file/BtoWUQgC#_ucTTVhtuPVRts2-kXLBhU30LrZH0smWkZ31aY103OY",
+        "changelog": "* Initial build\n * December Security patch "
+      },
+      {
         "ROM": "Paranoid Android",
         "dl": "Nan Pinnala vaaren",
         "changelog": "aug patch"

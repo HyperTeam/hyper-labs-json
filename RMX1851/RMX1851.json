@@ -69,6 +69,11 @@
         "changelog": "* September Security patch\n * Proper model detection (supported models: RMX1851, RMX1853, RMX1855)\n * Realme settings improvements\n * Performance mode just like RUI High performance mode, works along game mode option inside Realme settings. (Disable it after gaming so that it will switch to balanced profile)\n * Game mode DND improvements\n * Added F2fs mount point\n * Added support for realme X Lite (audio should work now)\n * Enabled zygote preforking (Faster app launch)"
       },
       {
+        "ROM": "Kang-OS 11.3",
+        "dl": "https://mega.nz/file/BtoWUQgC#_ucTTVhtuPVRts2-kXLBhU30LrZH0smWkZ31aY103OY",
+        "changelog": "* Initial build\n * December Security patch "
+      },
+      {
         "ROM": "Paranoid Android",
         "dl": "Nan Pinnala vaaren",
         "changelog": "aug patch"

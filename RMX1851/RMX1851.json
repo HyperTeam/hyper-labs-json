@@ -6,8 +6,8 @@
         "changelog": "September Security Patch"
       },
       { "ROM": "Pixel Experience-11",
-        "dl": "https://bit.ly/3qNmqGw",
-        "changelog": "* December Security Patch\n * Fixed 60fps video playback issues\n * Updated blobs from LA.UM.9.8.r1-02700-SDM710.0\n * Rebased kernel to LA.UM.9.8.r1-02700-SDM710.0 CAF tag\n  * Misc Changes"
+        "dl": "https://bit.ly/3aAixPq",
+        "changelog": "December Security Patch\n Fixed Bluetooth media\n Sticky notification if game node enabled\n Separate toggle for game mode DND\n OTG toggle inside realme Settings\n Smart Charging inside realme settings\n  Misc Changes"
       },
       {
         "ROM": "ForkLineageOS-17.1-vanilla",

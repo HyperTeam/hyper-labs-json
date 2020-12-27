@@ -70,8 +70,8 @@
       },	    
       {
         "ROM": "Kang-OS 11.3.5",
-        "dl": "https://mega.nz/file/RpxUXIJQ#L5Ng8Ha0Ab6z6xWe61BjYlr-Q4T9PcdD76VL4ET8mcw",
-        "changelog": "* Fixed bluetooth media\n * Added smart charging in realmr settings\n * add otg charging support"
+        "dl": "https://mega.nz/file/RpwC2ZSC#bPP4NlhESSUpzTpQ1kliWIvwfZKrhths4yrqk4inc_0",
+        "changelog": "* Fixed bluetooth media\n * Added smart chargig in realmr settings\n * add otg charging support\n * added applock and removed pixel launcher"
       },
       {
         "ROM": "Paranoid Android",

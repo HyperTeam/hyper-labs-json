@@ -69,9 +69,9 @@
         "changelog": "* September Security patch\n * Proper model detection (supported models: RMX1851, RMX1853, RMX1855)\n * Realme settings improvements\n * Performance mode just like RUI High performance mode, works along game mode option inside Realme settings. (Disable it after gaming so that it will switch to balanced profile)\n * Game mode DND improvements\n * Added F2fs mount point\n * Added support for realme X Lite (audio should work now)\n * Enabled zygote preforking (Faster app launch)"
       },	    
       {
-        "ROM": "Kang-OS 11.3.5",
-        "dl": "https://mega.nz/file/RpwC2ZSC#bPP4NlhESSUpzTpQ1kliWIvwfZKrhths4yrqk4inc_0",
-        "changelog": "* Fixed bluetooth media\n * Added smart chargig in realmr settings\n * add otg charging support\n * added applock and removed pixel launcher"
+        "ROM": "Kang-OS 11.4 (Pegasus)",
+        "dl": "https://mega.nz/file/x95g0CjJ#Z6_0wmyp9gJtQAnZV0AvhhJV78PNNNTcA02v0lWI0us",
+        "changelog": "* Merged Jan. Security patch\n * Added Dirac settings\n * Safetynet Passes now (Magisk Hide+root)"
       },
       {
         "ROM": "Paranoid Android",

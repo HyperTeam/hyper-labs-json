@@ -1,15 +1,14 @@
-
 {
-    "ROMList": [
-      {
-        "ROM": "LineageOS - 17.1",
-        "dl": "https://drive.google.com/file/d/1qa9eKNopRlTGsOSszoqZ3NGCgSPj5VwK/view?usp=sharing",
-        "changelog": "*LineageOS Upstream with Goodies*"
-      },
-      {
-        "ROM": "AOSP R",
-        "dl": "https://del.dog/getaospdrive",
-        "changelog": "*Android R Jan Patch"
-      }
-    ]
+  "ROMList": [
+    {
+      "ROM": "LineageOS - 17.1",
+      "dl": "https://drive.google.com/file/d/1qa9eKNopRlTGsOSszoqZ3NGCgSPj5VwK/view?usp=sharing",
+      "changelog": "*LineageOS Upstream with Goodies*"
+    },
+    {
+      "ROM": "AOSP - R",
+      "dl": "https://github.com/AOSP-Realme-X2/build_release/releases/download/v0.6.9/aosp_X2-11-20210110-1926-vanilla.zip",
+      "changelog": "Greetings and wishes for the New Year\n\nMake sure to read everything properly, Asking about already mentioned things can result in one getting temporarily muted in the chat, Duration depends upon the Admin's mood. \n\nChangelog:\n• Jan Security Fixes\n• 3 finger ScreenShot\n• Fixed Volume Sidebar Crash\n• Padding Adjustments\n• Fixed Random wakeup in doze state\n• Added multiple pixel fonts\n• Added Pixel theme combos\n• Pixel Live wallpapers\n• Pixel weather on LockScreen and ClockWidget + Calender notifications\n• Smart Charging Fixes (Ported from X2 Pro brings in additional control)\n• Upstream and optimized external/sqlite and arm routines\n• WCG fixes\n• Zram page caching fixes\n• Switched Back to GL renderer\n• Screen Recorder FPS and Quality Fixes\n• FOD improvements to reduce flicker in some cases\n• Camera Preview Fixes( Fixed in-app camera preview in apps like Google Lens)\n• Blanking and Unblanking improvements on doze state (Forward ported from Lineage-17.1)\n• Many more under the hood improvement and performance fixes\n\n\nFlashing Instructions:\n• If you are flashing from previous AOSP (included gapps build) You can do a Dirty Flash.\n\n• If you have modified system in anyway (used magisk or any other modules) You are supposed to do a complete clean flash\n\nNote: If you encounter a bug, Please make sure you are running a stock unmodified system without any mod, Please make sure to provide detailed information on the bug along with steps so that the bug can be reproduced, logcat and dmesg are necessary if you don't want your request/query to be ignored."
+    }
+  ]
 }

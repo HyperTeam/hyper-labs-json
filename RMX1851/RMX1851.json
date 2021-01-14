@@ -67,11 +67,16 @@
         "ROM": "Havoc-3.9",
         "dl": "https://bit.ly/3iFNB1p",
         "changelog": "* September Security patch\n * Proper model detection (supported models: RMX1851, RMX1853, RMX1855)\n * Realme settings improvements\n * Performance mode just like RUI High performance mode, works along game mode option inside Realme settings. (Disable it after gaming so that it will switch to balanced profile)\n * Game mode DND improvements\n * Added F2fs mount point\n * Added support for realme X Lite (audio should work now)\n * Enabled zygote preforking (Faster app launch)"
+      },
+      {
+        "ROM": "Kang-OS 11.4 (Vanilla)",
+        "dl": "https://mega.nz/file/t1gGAbAD#6ye4AJvFJxV9yJY7ja_bLeLxKXZetyYy5RleXy1Cx-Q",
+        "changelog": "* Added vanilla variant build\n * Added DolbyAtmos from motorolla\n * Safetynet Passes now (Magisk Hide+root)\n *Fixes a lot of apps crashes"
       },	    
       {
-        "ROM": "Kang-OS 11.4 (Pegasus)",
-        "dl": "https://mega.nz/file/x95g0CjJ#Z6_0wmyp9gJtQAnZV0AvhhJV78PNNNTcA02v0lWI0us",
-        "changelog": "* Merged Jan. Security patch\n * Added Dirac settings\n * Safetynet Passes now (Magisk Hide+root)"
+        "ROM": "Kang-OS 11.4 (Gapps)",
+        "dl": "https://mega.nz/file/Zw5QVRqA#MMafTrm0e5uFGMZT5cMsnYuVjyoCzXnhImgIYH4zjhs",
+        "changelog": "* Added vanilla variant build\n * Added DolbyAtmos from motorolla\n * Safetynet Passes now (Magisk Hide+root)\n *Fixes a lot of apps crashes"
       },
       {
         "ROM": "Paranoid Android",

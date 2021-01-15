@@ -36,7 +36,7 @@
       {
         "ROM": "AncientOS",
         "dl": "https://www.pling.com/p/1424170/",
-        "changelog": "* source side \n* VooC Charging enabled \n* Ancient CustomDoze Enabled \n* Added FaceUnlock"  
+        "changelog": "* source side \n* VooC Charging enabled \n* Ancient CustomDoze Enabled \n* Added FaceUnlock"
       },
       {
         "ROM": "BlissRoms",
@@ -72,7 +72,7 @@
         "ROM": "Kang-OS 11.4 (Vanilla)",
         "dl": "https://mega.nz/file/t1gGAbAD#6ye4AJvFJxV9yJY7ja_bLeLxKXZetyYy5RleXy1Cx-Q",
         "changelog": "* Added vanilla variant build\n * Added DolbyAtmos from motorolla\n * Safetynet Passes now (Magisk Hide+root)\n *Fixes a lot of apps crashes"
-      },	    
+      },
       {
         "ROM": "Kang-OS 11.4 (Gapps)",
         "dl": "https://mega.nz/file/Zw5QVRqA#MMafTrm0e5uFGMZT5cMsnYuVjyoCzXnhImgIYH4zjhs",
@@ -99,14 +99,19 @@
         "changelog": "OCT patch\n * Added moto Dolby atmos\n * Added Vooc Charging\n * Added toggle for Dolby (Turn on/off from Realme settings)\n * Included changes from latest FLOS\n * Kernel upstream"
       },
       {
-        "ROM": "Xtended Rom Xq",
-        "dl": "https://mega.nz/file/lh4G3YyC#aIr6wxGV7MnoZ68jAswpT-PHinvBuM4KOokGPkbxp4Q",
-        "changelog": "* Fix Screen Recorder lag\n * Added TouchScreen gestures\n * Added toggle for Dolby (Turn on/off from Realme settings)"
+        "ROM": "Xtended Rom XR 4.0 (Vanilla)",
+        "dl": "https://mega.nz/file/M4oVCY5Y#Lc20arHeeWKVO8F1q3l7l6zfSQ4wf_uFRstaON9bHCE",
+        "changelog": "* initial build"
       },
-	{ 
-	"ROM": "Mokee100",
-	 "dl": "https://bit.ly/37nKEy2", 
-       "changelog": "* November Security Patch\n * Initian Build"
+      {
+        "ROM": "Xtended Rom XR 4.0 (Gapps)",
+        "dl": "https://mega.nz/file/Mp5UzC4b#i9p3yn5CnkaY1_dVE1NRjSRz05qh0f-rik3rD6TO_jo",
+        "changelog": "* initial build"
+      },
+      {
+        "ROM": "Mokee100",
+        "dl": "https://bit.ly/37nKEy2",
+        "changelog": "* November Security Patch\n * Initian Build"
    }
     ]
 }

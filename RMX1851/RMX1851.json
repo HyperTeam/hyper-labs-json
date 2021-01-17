@@ -70,13 +70,13 @@
       },
       {
         "ROM": "Kang-OS 11.4 (Vanilla)",
-        "dl": "https://mega.nz/file/t1gGAbAD#6ye4AJvFJxV9yJY7ja_bLeLxKXZetyYy5RleXy1Cx-Q",
-        "changelog": "* Added vanilla variant build\n * Added DolbyAtmos from motorolla\n * Safetynet Passes now (Magisk Hide+root)\n *Fixes a lot of apps crashes"
+        "dl": "https://mega.nz/file/l85QmSjR#iXYOQV9mO8Scyu7FdfkhsnnQAW0ek9LEDfuJVcVJZLk",
+        "changelog": "* Fixed Qti Bluetooth\n * Enhance app launch speed\n * Fixed Touchgestures"
       },
       {
         "ROM": "Kang-OS 11.4 (Gapps)",
-        "dl": "https://mega.nz/file/Zw5QVRqA#MMafTrm0e5uFGMZT5cMsnYuVjyoCzXnhImgIYH4zjhs",
-        "changelog": "* Added vanilla variant build\n * Added DolbyAtmos from motorolla\n * Safetynet Passes now (Magisk Hide+root)\n *Fixes a lot of apps crashes"
+        "dl": "https://mega.nz/file/xsgmgYQZ#-5Xm2y9Ghf3iXIiG8nYHbGf43FVINcOy-AGI9I1UL2U",
+        "changelog": "* Fixed Qti Bluetooth\n * Enhance app launch speed\n * Fixed Touchgestures"
       },
       {
         "ROM": "Paranoid Android",

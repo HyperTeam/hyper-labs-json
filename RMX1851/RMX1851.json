@@ -100,13 +100,13 @@
       },
       {
         "ROM": "Xtended Rom XR 4.0 (Vanilla)",
-        "dl": "https://mega.nz/file/M4oVCY5Y#Lc20arHeeWKVO8F1q3l7l6zfSQ4wf_uFRstaON9bHCE",
-        "changelog": "* initial build"
+        "dl": "https://mega.nz/file/k0QVFaCZ#srHKhWJMWUfCVXGouDLN8_vg18NvE1qiUNWajz7W5vA",
+        "changelog": "* Fix CTS Profile Not passing\n * Remove Realme Pocke Mode as it's buggy"
       },
       {
         "ROM": "Xtended Rom XR 4.0 (Gapps)",
-        "dl": "https://mega.nz/file/Mp5UzC4b#i9p3yn5CnkaY1_dVE1NRjSRz05qh0f-rik3rD6TO_jo",
-        "changelog": "* initial build"
+        "dl": "https://mega.nz/file/hpZHRAbK#68pVynwUfRLps_an4EGaf5jLXv45FWDUxT4ZlrURxxA",
+        "changelog": "* Fix CTS Profile Not passing\n * Remove Realme Pocke Mode as it's buggy"
       },
       {
         "ROM": "Mokee100",

@@ -39,10 +39,15 @@
         "changelog": "* source side \n* VooC Charging enabled \n* Ancient CustomDoze Enabled \n* Added FaceUnlock"
       },
       {
-        "ROM": "BlissRoms",
-        "dl": "http://bit.ly/bliss1810",
-        "changelog": "* Added support for realme X Lite (audio should work now).\n* Enabled zygote preforking (Faster app launch).\n* Inline with latest lineage-17.1 build for RMX1851.\n* Bliss Upstream"
-      },
+        "ROM": "BlissRoms 14 (vanillia)",
+        "dl": "https://mega.nz/file/Ag5ywYaB#0YuL77L494TOOYTxlLcz5Gv8DMBlp8JWMzhr1vMG2zg",
+        "changelog": "* Initial build"
+      },0
+      {        
+        "ROM": "BlissRoms 14 (gapps",
+        "dl": "https://mega.nz/file/h5xGBY6D#sB2IX6YSPz8R-b9tNVNY5ow5l875l-09wXSnWAsLHKQ",
+        "changelog": "* Initial build"
+      },        
       {
         "ROM": "CarbonROM",
         "dl": "http://bit.ly/carbon2210",

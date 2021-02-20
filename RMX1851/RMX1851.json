@@ -74,14 +74,14 @@
         "changelog": "* September Security patch\n * Proper model detection (supported models: RMX1851, RMX1853, RMX1855)\n * Realme settings improvements\n * Performance mode just like RUI High performance mode, works along game mode option inside Realme settings. (Disable it after gaming so that it will switch to balanced profile)\n * Game mode DND improvements\n * Added F2fs mount point\n * Added support for realme X Lite (audio should work now)\n * Enabled zygote preforking (Faster app launch)"
       },
       {
-        "ROM": "Kang-OS 11.4 (Vanilla)",
-        "dl": "https://mega.nz/file/l85QmSjR#iXYOQV9mO8Scyu7FdfkhsnnQAW0ek9LEDfuJVcVJZLk",
-        "changelog": "* Fixed Qti Bluetooth\n * Enhance app launch speed\n * Fixed Touchgestures"
+        "ROM": "Kang-OS 11.5 (Vanilla)",
+        "dl": "https://mega.nz/file/45wxAAJQ#MA1tKnQJ-hjlYf5NrLRtzV48NTtf6ddzrbxtqBhRMlU",
+        "changelog": "* Reduced rom size\n * Added wave maxx audio (instead of moto dolby)"
       },
       {
-        "ROM": "Kang-OS 11.4 (Gapps)",
-        "dl": "https://mega.nz/file/105ixKDK#6KHXiVh5F6hWQ4LcXwMyCatOr_Qj56VcsYO4jPgl2z4",
-        "changelog": "* Fixed Qti Bluetooth\n * Enhance app launch speed\n * Fixed Touchgestures"
+        "ROM": "Kang-OS 11.5 (Gapps)",
+        "dl": "https://mega.nz/file/Bl5BAAbK#dq-BJiGyCJVMnZa0DfTAS0HnocwF36Tj2n3NHKxbAHU",
+        "changelog": "* Reduced rom size\n * Added wave maxx audio (instead of moto dolby)"
       },
       {
         "ROM": "Paranoid Android",

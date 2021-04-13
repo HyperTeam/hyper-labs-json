@@ -114,6 +114,16 @@
         "changelog": "OCT patch\n * Added moto Dolby atmos\n * Added Vooc Charging\n * Added toggle for Dolby (Turn on/off from Realme settings)\n * Included changes from latest FLOS\n * Kernel upstream"
       },
       {
+        "ROM": "SyberiaOS 4.5 (Vanilla)",
+        "dl": "https://mega.nz/file/Elx1xCbL#FHIZf7EJZaNwFwECS_3PaLU1SK5GBvkoqiykyqlyWsE",
+        "changelog": "Initial build"
+      },   
+      {
+        "ROM": "SyberiaOS 4.5 (Gapps)",
+        "dl": "https://mega.nz/file/514X1Qgb#SV56gg-GAzTl7Gzz3KcTj42_DqBWQqiRko3Kqw8loVo",
+        "changelog": "Initial build"
+      },             
+      {
         "ROM": "Xtended Rom XR 5.0 (Vanilla)",
         "dl": "https://mega.nz/file/lpw2Aa6Z#Y6vTPtViecujSGdmuo6ov1lM_ywOrbeRwPwnUn8Jn8g",
         "changelog": "* Reduced rom size (867mb only for vanillia/1gb for gapps)\n * added back Realme Pocke Mode"

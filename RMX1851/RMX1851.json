@@ -84,14 +84,14 @@
         "changelog": "* September Security patch\n * Proper model detection (supported models: RMX1851, RMX1853, RMX1855)\n * Realme settings improvements\n * Performance mode just like RUI High performance mode, works along game mode option inside Realme settings. (Disable it after gaming so that it will switch to balanced profile)\n * Game mode DND improvements\n * Added F2fs mount point\n * Added support for realme X Lite (audio should work now)\n * Enabled zygote preforking (Faster app launch)"
       },
       {
-        "ROM": "Kang-OS 2.0 (Vanilla)",
-        "dl": "https://mega.nz/file/R1AFmA6R#McccX-U1QmKUO9DS3Q4dkzcSScZP6VUYxnkD8lx2wCM",
-        "changelog": "* merged april security patch\n * misecellaneous changes"
+        "ROM": "Kang-OS 2.1 (Vanilla)",
+        "dl": "https://mega.nz/file/5ggQjbqT#umGUqzWjijiTnupIki-qbDo4tjov0b_IsAw9DuxUiz4",
+        "changelog": "* merged may security patch\n * misecellaneous changes"
       },
       {
-        "ROM": "Kang-OS 2.0 (Gapps)",
-        "dl": "https://mega.nz/file/A9hC0aID#EbvMCMcnahtBmiq6GWzAfuyfGj84l5z7XUPLUohM-pk",
-        "changelog": "* merged april security patch\n * misecellaneous changes"
+        "ROM": "Kang-OS 2.1 (Gapps)",
+        "dl": "https://mega.nz/file/Jw4wDSAS#Mtm3IHGftdzLKbl_ybz0DQiH17Bth8lm4W_Np738jSY",
+        "changelog": "* merged may security patch\n * misecellaneous changes"
       },
       {
         "ROM": "Paranoid Android",
